@@ -24,7 +24,7 @@ public class King {
     public int getTo() {
         return to;
     }
-    //toString mehtod that will retun the value for each object in the ListView container
+    //toString method that will retun the value for each object in the ListView container
 
     @Override
     public String toString() {
